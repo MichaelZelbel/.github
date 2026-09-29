@@ -1,0 +1,3 @@
+# Shows a "Sponsor" button on every repository of this account that has no
+# FUNDING.yml of its own, linking to Ko-fi.
+ko_fi: michaelc0de
